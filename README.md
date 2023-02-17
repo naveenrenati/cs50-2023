@@ -1,9 +1,11 @@
 # CS50-2023
-
-It is an updated 2023 course for edx cs50's Introduction to computer science
+```diff
++It is an updated 2023 course for edx cs50's Introduction to computer science
+```
 
 ## COMMANDS
 
+```diff
 mkdir filename ---> To create a directory with filename <br>
 cd filename ---> To go to that particular directory <br>
 ls ---> To view contents <br>
